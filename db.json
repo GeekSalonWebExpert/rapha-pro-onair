@@ -11,8 +11,8 @@
         "grade":"はい",
         "attendanceCheck":"ある",
         "examnation":"ある",
-        "seat":"",
-        "commentField":""
+        "seat":"ある",
+        "commentField":"ある"
     }
     
 ]}
