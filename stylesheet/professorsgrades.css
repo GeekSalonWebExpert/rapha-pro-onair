@@ -1,0 +1,337 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  height: 50px;
+  width: 100%;
+  margin-right: 0px;
+  background-color: white;
+  color: black;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  vertical-align: middle;
+}
+
+.below-header{
+  margin-top: 40px;
+}
+
+.logo-image{
+  text-align: left;
+  width: auto;
+  height: 40px;
+  margin-left: 10px;
+}
+
+.information-board{
+  margin-left: 80px;
+  background-color: #f1eff1;
+  height: 160px;
+  width: 480px;
+  vertical-align: middle;
+}
+
+.first-block{
+  vertical-align: super;
+  position: relative; top: -25px;
+  display: inline-block;
+  height: 80px;
+  width: auto;
+  padding-left: 40px;
+}
+
+.professor-name{
+  font-family: "arial"
+}
+
+.department{
+  display: inline-block;
+  position: relative;left: 15px;
+  font-size:10px;
+  font-family: 'Impact';
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.school{
+  display: inline-block;
+  position: relative;left: 20px;
+  font-size:10px;
+  font-family: 'Impact';
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+button{
+  display: block;
+  background-color: #04044a;
+  color: white;
+  height: 40px;
+  width: 160px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+h3{
+  font-size: 30px;
+  padding-top: 5px;
+}
+
+.second-block{
+  vertical-align: top;
+  position: relative; top: 20px;
+  position: relative;left: 20px;
+  display: inline-block;
+  padding: 20px;
+}
+
+.sogohyoka{
+  position: relative;
+  left: 3px;
+  top: -15px;
+  font-family: 'Impact';
+}
+
+.total-rate{
+  font-size: 40px;
+  font-family: 'Impact';
+}
+
+.tanishutoku{
+  position: relative; left: 3px;
+  font-family: 'Impact';
+}
+
+.tanishutoku-rate{
+  font-size: 40px;
+  font-family: 'Impact';
+}
+
+.bar{
+  display: inline-block;
+  position: relative;left: 20px;
+  height: 120px;
+  width: 1px;
+  background-color: black;
+}
+
+.third-block{
+  display: inline-block;
+  position: relative;left: 20px;
+  padding: 20px;
+  vertical-align: super;
+}
+
+.matatoritai{
+  position: relative; right: 5px;
+  font-family: 'Impact';
+}
+
+.matatoritai-rate{
+  display: inline-block;
+  font-size: 40px;
+  font-family: 'Impact';
+}
+
+.matatoritai-percent{
+  display: inline-block;
+  font-size: 20px;
+  width: auto;
+  font-family: 'Impact';
+}
+
+
+table{
+  width: 800px;
+  position: relative;top: 40px;
+  position: relative; left: 80px;
+}
+
+.list-label{
+  vertical-align: middle;
+  font-family: 'Impact';
+  display: inline-block;
+  font-size: 15px;
+  height: 30px;
+}
+
+.label-letter{
+  display: inline-block;
+  color: #4e4d4d;
+  position: relative;
+  bottom: -3px;
+  left: 5px;
+}
+
+#expand-arrow{
+  height: 15px;
+  width: 15px;
+  position: relative;top: 5px;
+}
+
+#rating-label{
+  background-color: #f1eff1;
+  width: 120px;
+  border-left: solid 1px;
+  border-top: solid 1px;
+  border-color: #bbb9b9;
+}
+
+#class-label{
+  background-color: #f1eff1;
+  width: 140px;
+  border-left: solid 1px;
+  border-top: solid 1px;
+  border-color: #bbb9b9;
+}
+
+#comment-label{
+  background-color: #f1eff1;
+  width: 450px;
+  border-left: solid 1px;
+  border-right: solid 1px;
+  border-top: solid 1px;
+  border-color: #bbb9b9;
+}
+
+.date-bar{
+  width: 120px;
+  height: 20px;
+  border-bottom: solid 1px;
+  border-color: #bbb9b9;
+}
+
+.date{
+  display: inline-block;
+  position: relative; left: 5px;
+  font-family: 'Impact'
+}
+
+td{
+  display: inline-block;
+  height: 100px;
+  font-family: 'arial'
+}
+
+
+.box{
+  height: 200px;
+  border-color: #8e8c8c4f;
+}
+
+#rating-box{
+  background-color: #8e8c8c4f;
+  width: 120px;
+  border-left: solid 1px;
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+  border-color: #bbb9b9;
+}
+
+.rating-bar{
+  height: 40px;
+  width: 120px;
+  text-align: right;
+  position: relative;right: 10px;
+}
+
+.ratebar-content{
+  display: inline-block;
+}
+
+.rate-number{
+  font-size: 40px;
+  font-family: 'Impact';
+  text-align: center;
+  position: relative; top: 20px;
+}
+
+#rate-text{
+  font-size: 15px;
+  font-family: 'Impact';
+}
+
+#face-image{
+  height: 30px;
+  width: 30px;
+  background-color: #8bc34a;
+  position: relative;top: 5px;
+  border: solid 5px;
+  border-color: #8bc34a;
+  border-radius: 10px;
+}
+
+#class-box{
+  background-color: #f1eff1;
+  width: 140px;
+  border-left: solid 1px;
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+  border-color: #bbb9b9;
+}
+
+.classname-label{
+  font-size: 12px;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+
+.inside-classbox{
+  font-size: 12px;
+  position: relative;
+  left: 15px;
+  top: 20px;
+}
+
+.credit{
+  display: inline-block;
+}
+
+.content{
+  display: inline-block;
+}
+
+.humor{
+  display: inline-block;
+}
+
+.again{
+  display: inline-block;
+}
+
+.attendance{
+  display: inline-block;
+}
+
+.test{
+  display: inline-block;
+}
+
+.report{
+  display:inline-block;
+}
+
+#comment-box{
+  background-color: #f1eff1;
+  width: 450px;
+  border-left: solid 1px;
+  border-right: solid 1px;
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+  border-color: #bbb9b9;
+}
+
+.comment{
+  margin: 20px;
+}
+
+footer{
+  background-color: gray;
+  height: 40px;
+  position: fixed;
+  bottom: 40px;
+}
