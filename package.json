@@ -3,13 +3,11 @@
   "main": "node_modules/expo/AppEntry.js",
   "private": true,
   "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "eject": "expo eject"
+    "json-server": "json-server --port 3001 --watch db.json"
   },
   "dependencies": {
     "expo": "^31.0.2",
+    "json-server": "^0.14.2",
     "react": "16.5.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-31.0.0.tar.gz",
     "react-native-elements": "^1.0.0-beta7",
@@ -19,8 +17,16 @@
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
   },
-
-  "scripts": {
-    "json-server": "json-server --port 3001 --watch db.json"
-  }
+  "description": "## 企画",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeekSalonWebExpert/rapha-pro-onair.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeekSalonWebExpert/rapha-pro-onair/issues"
+  },
+  "homepage": "https://github.com/GeekSalonWebExpert/rapha-pro-onair#readme"
 }

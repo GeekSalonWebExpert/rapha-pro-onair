@@ -5,7 +5,7 @@ class App extends Component {
     constructor() {
       super()
       this.state = {
-        tasks: [
+        data: [
           {
             id: 1,
             body: "とりあえず表示してみる"
@@ -17,6 +17,18 @@ class App extends Component {
         ]
       }
     }
+
+    componentWillMount(){
+        this.fetchTasks()
+      }
+    
+      fetchTasks(){
+        fetch("http://localhost:3001/data") // データを取得しに行く
+        .then( response => response.json() ) // json型のレスポンスをオブジェクトに変換する
+        .then( json => { // オブジェクトに変換したレスポンスを受け取り、
+          this.setState({ data: json }) // Stateを更新する
+        })
+      }
   
     render() {
       return (
