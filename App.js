@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './stylesheet';
+// import console = require('console');
 
 class App extends Component {
     constructor() {
@@ -19,10 +20,10 @@ class App extends Component {
     }
 
     componentWillMount(){
-        this.fetchTasks()
+        this.fetchData()
       }
     
-      fetchTasks(){
+      fetchData(){
         fetch("http://localhost:3001/data") // データを取得しに行く
         .then( response => response.json() ) // json型のレスポンスをオブジェクトに変換する
         .then( json => { // オブジェクトに変換したレスポンスを受け取り、
@@ -33,10 +34,10 @@ class App extends Component {
     render() {
       return (
         <div className="App">
-          <div className="tasks">
+          <div className="dataList">
           {
-            this.state.tasks.map( task => {
-                return <div className="task" key={ task.id }>{ task.body }</div>
+            this.state.data.map( data => {
+                return <div className="data" key={ data.id }>{ data.body }</div>
             })
           }
           </div>
