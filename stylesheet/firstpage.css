@@ -1,0 +1,43 @@
+{
+  margin: 0;
+  padding: 0;
+}
+
+.logo-image{
+  text-align: left;
+  width: auto;
+  height: 40px;
+  margin-left: 10px;
+}
+.center{
+text-align: center;
+}
+.center_b{
+
+width: 200px;
+height: 100px;
+
+margin: auto;
+}
+
+/* .universityname{
+      height:30px;
+      width: 500px;
+      padding: 10px;
+} */
+.ratescene{
+   line-height: 2;
+   margin-top: 10em;
+
+}
+
+.searchscene{
+   margin-bottom: 5em;
+}
+.aaa{
+  font-size:50px
+}
+.result{
+  font-size: 30px;
+  margin-left: 8.5em;
+}
