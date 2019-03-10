@@ -83,14 +83,22 @@ header{
   display: inline-block;
 }
 
-.slider{
-  height: 30px;
-  width: 300px;
-  margin-left: 20px;
-  background-color: #4e4d4d;
-  border-radius: 15px;
-  display: inline-block;
+.input-field{
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
+
+.input-slider{
+  display: flex;
+}
+
+.slider{
+  width: 200px;
+}
+
+
 
 .number{
   color: #989797;
@@ -98,13 +106,21 @@ header{
   font-family: 'Impact';
   margin: 5px;
   position: relative;
-  top: 10px;
   right: 15px;
   font-size: 60px;
 }
 
-.input-box{
 
+
+#submit-button{
+  margin: 50px;
+  margin-left: 200px;
+  height: 50px;
+  width: 300px;
+  color: white;
+  font-size: 20px;
+  background-color: #00adee;
+  font-family: 'Impact'
 }
 
 #input-class{
@@ -115,8 +131,17 @@ header{
 }
 
 #input-comment{
+  text-align: left;
+  vertical-align: top;
   display: block;
   margin-left: 40px;
   height: 200px;
   width: 500px;
+}
+
+#input-grade{
+  margin-left: 100px;
+  text-align: center;
+  width: 30px;
+  height: 20px;
 }

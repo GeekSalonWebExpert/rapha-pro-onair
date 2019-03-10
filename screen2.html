@@ -28,47 +28,70 @@
         <div class="label" id="input-label">授業名</div>
         <input input-box="class" id="input-class" type="text" name="" value="授業名を入力">
       </div>
-      <div class="tanishutoku">
-        <div class="number">2</div>
-        <div class="label" id="tanishutoku-label">単位取得</div>
-        <div class="slider" id="tanishutoku-slider"></div>
+      <div class="input-field" id="tanishutoku">
+        <div class="">
+          <div class="number">2</div>
+          <div class="label" id="tanishutoku-label">単位取得</div>
+        </div>
+        <div class="input-slider">
+          <div class="rate-number" id="tanishutoku-value">1</div>
+        　<input type="range" class="slider" id="tanishutoku-slider" name="tanishutoku" min="1" max="5" value="1" list="slider-gauge">
+        </div>
       </div>
       <div class="content">
         <div class="number">3</div>
         <div class="label" id="content-label">授業内容</div>
-        <div class="slider" id="content-slider"></div>
+
       </div>
       <div class="humor">
         <div class="number">4</div>
         <div class="label" id="humor-label">教授のユーモア</div>
-        <div class="slider" id="humor-slider"></div>
+
       </div>
       <div class="again">
         <div class="number">5</div>
         <div class="label" id="again-label">またとりたい</div>
-        <div class="slider" id="againslider"></div>
+
       </div>
       <div class="attendance">
         <div class="number">6</div>
         <div class="label" id="attendance-label">出席</div>
-        <div class="slider" id="attendance-slider"></div>
+
       </div>
       <div class="test">
         <div class="number">7</div>
         <div class="label" id="test-label">テスト</div>
-        <div class="slider" id="test-slider"></div>
+
       </div>
       <div class="report">
         <div class="number">8</div>
         <div class="label" id="report-label">レポート</div>
-        <div class="slider" id="report-slider"></div>
+
       </div>
       <div class="comment">
         <div class="number">9</div>
         <div class="label">コメント</div>
         <input class="input-box" id="input-comment" type="text" name="" value="詳細情報を入力（）"　style="text-align: top;">
       </div>
+      <div class="grade">
+        <div class="number">10</div>
+        <div class="label">自分の成績</div>
+        <input class="input-box" id="input-grade" type="text" name="" value="A">
+      </div>
+      <button id="submit-button" type="button" name="button">提出</button>
     </div>
+
+      <datalist id="slider-gauge">
+        <option value="1" label="1">
+        <option value="2" label="2">
+        <option value="3" label="3">
+        <option value="4" label="4">
+        <option value="5" label="5">
+      </datalist>
+
+<script src="js/slider.js">
+
+</script>
 
   </body>
 </html>
