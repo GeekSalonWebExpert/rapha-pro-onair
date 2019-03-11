@@ -92,9 +92,9 @@ class About extends Component {
           <div class="label" id="again-label">またとりたい</div>
         </div>
           <div class="switch" id="again-switch">
-            <input type="radio" name="again-choice" id="Yes">
+            <input type="radio" name="again-choice" id="Yes" value="Yes">
             <label for="yes">はい</label>
-            <input type="radio" name="again-choice" id="no">
+            <input type="radio" name="again-choice" id="no" value="No">
             <label for="no">いいえ</label>
             <span class="switchFilter"></span>
           </div>
@@ -106,9 +106,9 @@ class About extends Component {
             <div class="label" id="attendance-label">出席</div>
           </div>
           <div class="switch" id="attendance-switch">
-            <input type="radio" name="attendance-choice" id="Yes">
+            <input type="radio" name="attendance-choice" id="Yes" value="Yes">
             <label for="yes">はい</label>
-            <input type="radio" name="attendance-choice" id="no">
+            <input type="radio" name="attendance-choice" id="no" value="No">
             <label for="no">いいえ</label>
             <span class="switchFilter"></span>
           </div>
@@ -120,9 +120,9 @@ class About extends Component {
             <div class="label" id="test-label">テスト</div>
           </div>
           <div class="switch" id="test-switch">
-            <input type="radio" name="test-choice" id="Yes">
+            <input type="radio" name="test-choice" id="Yes" value="Yes">
             <label for="yes">はい</label>
-            <input type="radio" name="test-choice" id="no">
+            <input type="radio" name="test-choice" id="no" value="No">
             <label for="no">いいえ</label>
             <span class="switchFilter"></span>
           </div>
@@ -134,9 +134,9 @@ class About extends Component {
             <div class="label" id="report-label">レポート</div>
           </div>
           <div class="switch" id="report-switch">
-            <input type="radio" name="report-choice" id="Yes">
+            <input type="radio" name="report-choice" id="Yes" value="Yes">
             <label for="yes">はい</label>
-            <input type="radio" name="report-choice" id="no">
+            <input type="radio" name="report-choice" id="no" value="No">
             <label for="no">いいえ</label>
             <span class="switchFilter"></span>
           </div>
