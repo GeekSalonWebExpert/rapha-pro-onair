@@ -23,11 +23,13 @@
     </div>
 
     <div class="info-detail">
+
       <div class="class-name">
         <div class="number">1</div>
         <div class="label" id="input-label">授業名</div>
         <input input-box="class" id="input-class" type="text" name="" value="授業名を入力">
       </div>
+
       <div class="input-field" id="tanishutoku">
         <div class="">
           <div class="number">2</div>
@@ -38,37 +40,74 @@
         　<input type="range" class="slider" id="tanishutoku-slider" name="tanishutoku" min="1" max="5" value="1" list="slider-gauge">
         </div>
       </div>
-      <div class="content">
-        <div class="number">3</div>
-        <div class="label" id="content-label">授業内容</div>
 
+      <div class="input-field" id="content">
+        <div class="">
+          <div class="number">3</div>
+          <div class="label" id="content-label">授業内容</div>
+        </div>
+        <div class="input-slider">
+          <div class="rate-number" id="content-value">1</div>
+          <input type="range" class="slider" id="content-slider" name="content" min="1" max="5" value="1" list="slider-gauge">
+        </div>
       </div>
-      <div class="humor">
-        <div class="number">4</div>
-        <div class="label" id="humor-label">教授のユーモア</div>
 
+      <div class="input-field" id="humor">
+        <div class="">
+          <div class="number">4</div>
+          <div class="label" id="humor-label">教授のユーモア</div>
+        </div>
+        <div class="input-slider">
+          <div class="rate-number" id="humor-value">1</div>
+          <input type="range" class="slider" id="humor-slider" name="humor" min="1" max="5" value="1" list="slider-gauge">
+        </div>
       </div>
-      <div class="again">
-        <div class="number">5</div>
-        <div class="label" id="again-label">またとりたい</div>
 
+      <div class="input-field-bool" id="again">
+        <div class="">
+          <div class="number">5</div>
+          <div class="label" id="again-label">またとりたい</div>
+        </div>
+        <div class="input-slider">
+          <div class="rate-number" id="again-value">1</div>
+          <input type="range" class="bool-slider" id="again-slider" name="again" min="1" max="2" value="1" list="slider-gauge-bool">
+        </div>
       </div>
-      <div class="attendance">
-        <div class="number">6</div>
-        <div class="label" id="attendance-label">出席</div>
 
+      <div class="input-field-bool" id="attendance">
+        <div class="">
+          <div class="number">6</div>
+          <div class="label" id="attendance-label">出席</div>
+        </div>
+        <div class="input-slider">
+          <div class="rate-number" id="attendance-value">1</div>
+          <input type="range" class="bool-slider" id="attendance-slider" name="attendance" min="1" max="2" value="1" list="slider-gauge-bool">
+        </div>
       </div>
-      <div class="test">
-        <div class="number">7</div>
-        <div class="label" id="test-label">テスト</div>
 
+      <div class="input-field-bool" id="test">
+        <div class="">
+          <div class="number">7</div>
+          <div class="label" id="test-label">テスト</div>
+        </div>
+        <div class="input-slider">
+          <div class="rate-number" id="test-value">1</div>
+          <input type="range" class="bool-slider" id="test-slider" name="test" min="1" max="2" value="1" list="slider-gauge-bool">
+        </div>
       </div>
-      <div class="report">
-        <div class="number">8</div>
-        <div class="label" id="report-label">レポート</div>
 
+      <div class="input-field-bool" id="report">
+        <div class="">
+          <div class="number">8</div>
+          <div class="label" id="report-label">レポート</div>
+        </div>
+        <div class="input-slider">
+          <div class="rate-number" id="report-value">1</div>
+          <input type="range" class="bool-slider" id="report-slider" name="report" min="1" max="2" value="1" list="slider-gauge-bool">
+        </div>
       </div>
-      <div class="comment">
+
+      <div class"input-field-bool" id="comment">
         <div class="number">9</div>
         <div class="label">コメント</div>
         <input class="input-box" id="input-comment" type="text" name="" value="詳細情報を入力（）"　style="text-align: top;">
@@ -82,11 +121,16 @@
     </div>
 
       <datalist id="slider-gauge">
-        <option value="1" label="1">
-        <option value="2" label="2">
-        <option value="3" label="3">
-        <option value="4" label="4">
-        <option value="5" label="5">
+        <option value="1">
+        <option value="2">
+        <option value="3">
+        <option value="4">
+        <option value="5">
+      </datalist>
+
+      <datalist id="slider-gauge-bool">
+        <option value="1"></option>
+        <option value="2"></option>
       </datalist>
 
 <script src="js/slider.js">

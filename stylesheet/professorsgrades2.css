@@ -84,9 +84,15 @@ header{
 }
 
 .input-field{
-  width: 400px;
+  width: 600px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
+}
+
+.input-field-bool{
+  display: flex;
+  width: 450px;
   justify-content: space-between;
 }
 
@@ -98,7 +104,15 @@ header{
   width: 200px;
 }
 
+.bool-slider{
+  width: 50px;
+}
 
+.rate-number{
+  font-size: 50px;
+  font-family: 'Impact';
+  margin: 20px;
+}
 
 .number{
   color: #989797;
