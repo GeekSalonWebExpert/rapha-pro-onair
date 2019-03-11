@@ -1,7 +1,7 @@
-{
+/* {
   margin: 0;
   padding: 0;
-}
+} */
 
 .logo-image{
   text-align: left;
@@ -34,9 +34,9 @@ margin: auto;
 .searchscene{
    margin-bottom: 5em;
 }
-.aaa{
+/* .aaa{
   font-size:50px
-}
+} */
 .result{
   font-size: 30px;
   margin-left: 8.5em;

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="./stylesheet/professorsgrades.css">
+  <script type="text/javascript" src="App.test.js"></script>
+
+  </head>
+
+<body>
+<header>
+  <img src="images/professorsgrades.logo.png" class="logo-image">
+</header>
+<div class="below-header">
+<div class="information-board">
+  <div class="first-block">
+  　<h3 class="professor-name">中崎雄大</h3>
+    <p class=school>慶應義塾大学</p>
+    <p class=department>経済学部</p>
+    <button type="button" name="button">この教授を評価する</button>
+  </div>
+  <div class="second-block">
+    <h6 class=sogohyoka>総合評価</h6>
+    <h1 class=total-rate>4.5</h1>
+  </div>
+  <div class="bar">
+  </div>
+  <div class="third-block">
+    <h6 class=tanishutoku>単位取得</h6>
+    <h1 class=tanishutoku-rate>4.5</h1>
+    <h6 class=matatoritai>またとりたい</h6>
+    <h1 class=matatoritai-rate>90</h1>
+    <h1 class=matatoritai-percent>%</h1>
+  </div>
+</div>
+
+
+<table class="rating-list">
+  <tr>
+    <td class=list-label id="rating-label">
+    <p class=label-letter>評価</p>
+    <img src="images/expand-arrow.png" class=label-letter id="expand-arrow">
+    </td>
+    <td class=list-label id="class-label">
+      <p class=label-letter>授業</p>
+      <img src="images/expand-arrow.png" class=label-letter id="expand-arrow">
+    </td>
+    <td class=list-label id="comment-label">
+      <p class=label-letter>コメント</p>
+      <img src="images/expand-arrow.png" class=label-letter id="expand-arrow">
+    </td>
+    <td class=box id="rating-box">
+      <div class="date-bar">
+          <h6 class=date id=year>2019</h6>
+          <h6 class=date>/</h6>
+          <h6 class=date id=month>2</h6>
+          <h6 class=date>/</h6>
+          <h6 class=date id=day>28</h6>
+      </div>
+      <div class="rating-bar">
+        <img src="images/smile2.png" class=ratebar-content id="face-image">
+        <p class=ratebar-content id="rate-text">Excellent</p>
+      </div>
+      <div class="rate-number">4.5</div>
+    </td>
+    <td class=box id="class-box">
+      <div class="classname-label">ミクロ経済学中級</div>
+        <div class="inside-classbox">
+          <div class="rsult-list">
+            <div class="credit" id=tanishutoku-label>単位取得:</div>
+            <div class="credit" id=tanishutoku-rate>0.0</div>
+          </div>
+          <div class="result-list">
+            <div class="content" id=content-label>授業内容:</div>
+            <div class="content" id=content-rate>0.0</div>
+          </div>
+          <div class="result-list">
+            <div class="humor" id=humor-label>教授のユーモア:</div>
+            <div class="humor" id=humor-rate>0.0</div>
+          </div>
+          <div class="result-list">
+            <div class="again" id=again-label>またとりたい:</div>
+            <div class="again" id=again-bool>はい</div>
+          </div>
+          <div class="result-list">
+            <div class="attendance" id=attendance-label>出席:</div>
+            <div class="attendance" id=attendance-bool>はい</div>
+          </div>
+          <div class="result-list">
+            <div class="test" id=test-label>テスト:</div>
+            <div class="test" id=test-bool>あり</div>
+          </div>
+          <div class="result-list">
+            <div class="report" id=report-label>レポート:</div>
+            <div class="report" id=report-bool>あり</div>
+          </div>
+        </div>
+    </td>
+    <td class=box id="comment-box">
+      <p class=comment>授業は面白いよ。</p>
+    </td>
+  </tr>
+</table>
+
+<footer>
+</footer>
+
+</div>
+</body>
+
+
+
+</html>
