@@ -159,3 +159,15 @@ header{
   width: 30px;
   height: 20px;
 }
+
+.switch{
+  position: relative;
+  top: 40px;
+  left: 100px;
+}
+
+label{
+  margin: 10px;
+  font-size: 30px;
+  font-family: 'Impact';
+}

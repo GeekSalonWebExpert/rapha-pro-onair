@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo-image{
+  text-align: left;
+  width: auto;
+  height: 40px;
+  margin-left: 10px;
+}
+
+.pagetitle{
+  font-size: 50px;
+  font-family: "arial";
+  text-align: center;
+  margin: 30px;
+}
+
+table{
+  align-items: center;
+  border-collapse: collapse;
+  border: solid 2px;
+  width: 1000px;
+  height: auto;
+  margin: 0 auto;
+  align-items: center;
+  margin-top: 50px;
+}
+th,td{
+  border: solid 2px;
+  text-align: center;
+  font-size: 30px;
+  font-family: 'arial'
+}

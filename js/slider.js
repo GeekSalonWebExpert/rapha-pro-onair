@@ -29,26 +29,26 @@ humorSlider.addEventListener("input", function(){
   humorValueField.textContent = humorSlider.value
 })
 
-const againSlider = document.getElementById("again-slider")
-const againValueField = document.getElementById("again-value")
-againSlider.addEventListener("input", function(){
-  againValueField.textContent = againSlider.value
-})
-
-const attendanceSlider = document.getElementById("attendance-slider")
-const attendanceValueField = document.getElementById("attendance-value")
-attendanceSlider.addEventListener("input", function(){
-  attendanceValueField.textContent = attendanceSlider.value
-})
-
-const testSlider = document.getElementById("test-slider")
-const testValueField = document.getElementById("test-value")
-testSlider.addEventListener("input", function(){
-  testValueField.textContent = testSlider.value
-})
-
-const reportSlider = document.getElementById("report-slider")
-const reportValueField = document.getElementById("report-value")
-reportSlider.addEventListener("input", function(){
-  reportValueField.textContent = reportSlider.value
-})
+// const againSlider = document.getElementById("again-slider")
+// const againValueField = document.getElementById("again-value")
+// againSlider.addEventListener("input", function(){
+//   againValueField.textContent = againSlider.value
+// })
+//
+// const attendanceSlider = document.getElementById("attendance-slider")
+// const attendanceValueField = document.getElementById("attendance-value")
+// attendanceSlider.addEventListener("input", function(){
+//   attendanceValueField.textContent = attendanceSlider.value
+// })
+//
+// const testSlider = document.getElementById("test-slider")
+// const testValueField = document.getElementById("test-value")
+// testSlider.addEventListener("input", function(){
+//   testValueField.textContent = testSlider.value
+// })
+//
+// const reportSlider = document.getElementById("report-slider")
+// const reportValueField = document.getElementById("report-value")
+// reportSlider.addEventListener("input", function(){
+//   reportValueField.textContent = reportSlider.value
+// })
