@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
-import './About.css';
+import './professorsgrades2.css';
+import headerlogo from './images/professorsgrades.logo.png'
+
 
 class About extends Component {
   constructor(props) {
@@ -32,8 +34,8 @@ class About extends Component {
   render() {
     return (
       <div className="App">
-       <header>
-        <img src="images/professorsgrades.logo.png" class="logo-image" />
+        <header>
+          <img src={headerlogo} class="logo-image" alt="love"/>
         </header>
 
     <div class="" id="info-board">
@@ -60,7 +62,7 @@ class About extends Component {
         </div>
         <div class="input-slider">
           <div class="rate-number" id="tanishutoku-value">1</div>
-        　<input type="range" class="slider" id="tanishutoku-slider" name="tanishutoku" min="1" max="5" value="1" list="slider-gauge">
+        　<input type="range" class="slider" id="tanishutoku-slider" name="tanishutoku" min="1" max="5" value="1" list="slider-gauge"/>
         </div>
       </div>
 
@@ -71,7 +73,7 @@ class About extends Component {
         </div>
         <div class="input-slider">
           <div class="rate-number" id="content-value">1</div>
-          <input type="range" class="slider" id="content-slider" name="content" min="1" max="5" value="1" list="slider-gauge">
+          <input type="range" class="slider" id="content-slider" name="content" min="1" max="5" value="1" list="slider-gauge"/>
         </div>
       </div>
 
@@ -82,7 +84,7 @@ class About extends Component {
         </div>
         <div class="input-slider">
           <div class="rate-number" id="humor-value">1</div>
-          <input type="range" class="slider" id="humor-slider" name="humor" min="1" max="5" value="1" list="slider-gauge">
+          <input type="range" class="slider" id="humor-slider" name="humor" min="1" max="5" value="1" list="slider-gauge"/>
         </div>
       </div>
 
@@ -92,9 +94,9 @@ class About extends Component {
           <div class="label" id="again-label">またとりたい</div>
         </div>
           <div class="switch" id="again-switch">
-            <input type="radio" name="again-choice" id="Yes" value="Yes">
+            <input type="radio" name="again-choice" id="Yes">
             <label for="yes">はい</label>
-            <input type="radio" name="again-choice" id="no" value="No">
+            <input type="radio" name="again-choice" id="no">
             <label for="no">いいえ</label>
             <span class="switchFilter"></span>
           </div>
@@ -106,9 +108,9 @@ class About extends Component {
             <div class="label" id="attendance-label">出席</div>
           </div>
           <div class="switch" id="attendance-switch">
-            <input type="radio" name="attendance-choice" id="Yes" value="Yes">
+            <input type="radio" name="attendance-choice" id="Yes">
             <label for="yes">はい</label>
-            <input type="radio" name="attendance-choice" id="no" value="No">
+            <input type="radio" name="attendance-choice" id="no">
             <label for="no">いいえ</label>
             <span class="switchFilter"></span>
           </div>
@@ -120,9 +122,9 @@ class About extends Component {
             <div class="label" id="test-label">テスト</div>
           </div>
           <div class="switch" id="test-switch">
-            <input type="radio" name="test-choice" id="Yes" value="Yes">
+            <input type="radio" name="test-choice" id="Yes">
             <label for="yes">はい</label>
-            <input type="radio" name="test-choice" id="no" value="No">
+            <input type="radio" name="test-choice" id="no">
             <label for="no">いいえ</label>
             <span class="switchFilter"></span>
           </div>
@@ -134,9 +136,9 @@ class About extends Component {
             <div class="label" id="report-label">レポート</div>
           </div>
           <div class="switch" id="report-switch">
-            <input type="radio" name="report-choice" id="Yes" value="Yes">
+            <input type="radio" name="report-choice" id="Yes">
             <label for="yes">はい</label>
-            <input type="radio" name="report-choice" id="no" value="No">
+            <input type="radio" name="report-choice" id="no">
             <label for="no">いいえ</label>
             <span class="switchFilter"></span>
           </div>
@@ -151,7 +153,7 @@ class About extends Component {
       <div class="grade">
         <div class="number">10</div>
         <div class="label">自分の成績</div>
-        <input class="input-box" id="input-grade" type="text" name="" value="A">
+        <input class="input-box" id="input-grade" type="text" name="" value="A"/>
       </div>
       <button id="submit-button" type="button" name="button">提出</button>
 
