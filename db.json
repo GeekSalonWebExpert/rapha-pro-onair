@@ -1,13 +1,38 @@
-    {"data": [
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "professors": [
     {
       "id": 0,
       "name": "福山雅治",
       "university":"慶應義塾大学",
       "undergraduate":"経済学部",
       "className":"ミクロ経済学基礎"
+    },
+    {
+      "id": 1,
+      "name": "バカぽんのパパ",
+      "university":"バカ田大学",
+      "undergraduate":"バ科",
+      "className":"算数教室"
     }
-         ],
-   "evaluation":[
+   ],
+   "evaluations":[
      {
       "id":1,
       "dataId":1,
@@ -20,4 +45,5 @@
       "seat":"ある",
       "commentField":"授業中によく話が脱線する。"
      }
-         ]}
+   ]
+}
