@@ -31,19 +31,19 @@
       "id": 1,
       "name": "バカぽんのパパ",
       "university":"バカ田大学",
-      "undergraduate":"バ科",
+      "undergraduate":"バ科"
     },
     {
       "id": 2,
       "name": "赤江雄一",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 3,
       "name": "安形麻里",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 4,
@@ -55,955 +55,2101 @@
       "id": 5,
       "name": "浅見雅一",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
 　　{
       "id": 6,
       "name": "芦野文武",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 7,
       "name": "荒畑靖宏",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 8,
       "name": "安藤寿康",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 9,
       "name": "安藤広道",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 10,
-      "name": "アーマーアンドルー",
+      "name": "アーマー　アンドルー",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 11,
       "name": "井奥成彦",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 12,
       "name": "井口篤",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 13,
       "name": "池谷のぞみ",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 14,
       "name": "伊澤栄一",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 15,
       "name": "石川透",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 16,
       "name": "石田京子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 17,
-      "name": "",
+      "name": "市川崇",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 18,
-      "name": "",
+      "name": "井出新",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 19,
-      "name": "市川崇",
+      "name": "伊東裕司",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 20,
-      "name": "",
+      "name": "稲葉昭英",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 21,
-      "name": "井出新",
+      "name": "井上逸兵",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 22,
-      "name": "伊東裕司",
+      "name": "井上櫻子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 23,
-      "name": "稲葉昭英",
+      "name": "今井芳昭",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 24,
-      "name": "井上逸兵",
+      "name": "岩間一弘",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 25,
-      "name": "井上櫻子",
+      "name": "李光鎬",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 26,
-      "name": "今井芳昭",
+      "name": "上枝美典",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 27,
-      "name": "岩間一弘",
+      "name": "上枝美典",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 28,
-      "name": "李光鎬",
+      "name": "宇沢美子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 29,
-      "name": "上枝美典",
+      "name": "梅田聡",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 30,
-      "name": "上野大輔",
+      "name": "エアトル　ヴォルフガング",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 31,
-      "name": "宇沢美子",
+      "name": "大串尚代",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 32,
-      "name": "梅田聡",
+      "name": "大場茂",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 33,
-      "name": "エアトルヴォルフガング",
+      "name": "大森貴秀",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 34,
-      "name": "大串尚代",
+      "name": "岡田あおい",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 35,
-      "name": "大場茂",
+      "name": "岡田光弘",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 36,
-      "name": "大森貴秀",
+      "name": "岡原正幸",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 37,
-      "name": "岡田あおい",
+      "name": "小川剛生",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 38,
-      "name": "岡田光弘",
+      "name": "荻野安奈",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 39,
-      "name": "岡原正幸",
+      "name": "小倉孝誠",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 40,
-      "name": "小川剛生",
+      "name": "小平麻衣子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 41,
-      "name": "荻野安奈",
+      "name": "織田輝哉",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 42,
-      "name": "小倉孝誠",
+      "name": "樫尾直樹",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 43,
-      "name": "小平麻衣子",
+      "name": "柏端達也",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 44,
-      "name": "織田輝哉",
+      "name": "片木智年",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 45,
-      "name": "樫尾直樹",
+      "name": "勝沼聡",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 46,
-      "name": "柏端達也",
+      "name": "加藤有佳織",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 47,
-      "name": "片木智年",
+      "name": "金山弘昌",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 48,
-      "name": "勝沼聡",
+      "name": "金子洋之",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 49,
-      "name": "加藤有佳織",
+      "name": "金子善彦",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 50,
-      "name": "金山弘昌",
+      "name": "鹿又伸夫",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 51,
-      "name": "金子洋之",
+      "name": "川島建太郎",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 52,
-      "name": "金子善彦",
+      "name": "川畑秀明",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 53,
-      "name": "鹿又伸夫",
+      "name": "神崎忠昭",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 54,
-      "name": "川島建太郎",
+      "name": "岸田和明",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 55,
-      "name": "川畑秀明",
+      "name": "北中淳子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 56,
-      "name": "神崎忠昭",
+      "name": "喜田浩平",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 57,
-      "name": "岸田和明",
+      "name": "金柄徹",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 58,
-      "name": "北中淳子",
+      "name": "木村麻衣子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 59,
-      "name": "喜田浩平",
+      "name": "桐本東太",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 60,
-      "name": "金柄徹",
+      "name": "粂川麻里生",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 61,
-      "name": "木村麻衣子",
+      "name": "倉石立",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 62,
-      "name": "桐本東太",
+      "name": "倉田敬子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 63,
-      "name": "粂川麻里生",
+      "name": "栗本賀世子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 64,
-      "name": "倉石立",
+      "name": "香田芳樹",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 65,
-      "name": "倉田敬子",
+      "name": "河野礼子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 66,
-      "name": "栗本賀世子",
+      "name": "コミサロフ　アダム",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 67,
-      "name": "香田芳樹",
+      "name": "合山林太郎",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 68,
-      "name": "河野礼子",
+      "name": "後藤文子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 69,
-      "name": "コミサロフアダム",
+      "name": "斎藤太郎",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 70,
-      "name": "合山林太郎",
+      "name": "斎藤慶典",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 71,
-      "name": "後藤文子",
+      "name": "坂上貴之",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 72,
-      "name": "斎藤太郎",
+      "name": "坂田幸子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 73,
-      "name": "斎藤慶典",
+      "name": "坂本光",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 74,
-      "name": "坂上貴之",
+      "name": "佐川徹",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 75,
-      "name": "坂田幸子",
+      "name": "佐藤孝雄",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 76,
-      "name": "坂本光",
+      "name": "佐藤道生",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 77,
-      "name": "佐川徹",
+      "name": "識名章喜",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 78,
-      "name": "佐藤孝雄",
+      "name": "清水明子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 79,
-      "name": "佐藤道生",
+      "name": "下田健太郎",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
-    },
+      "undergraduate":"文学部"
+    }
     {
       "id": 80,
-      "name": "識名章喜",
+      "name": "菅さやか",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 81,
-      "name": "清水明子",
+      "name": "菅原昭江",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 82,
-      "name": "下田健太郎",
+      "name": "杉浦淳吉",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 83,
-      "name": "菅さやか",
+      "name": "杉野元子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 84,
-      "name": "菅原昭江",
+      "name": "杉本智俊",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 85,
-      "name": "杉浦淳吉",
+      "name": "杉山晴紀",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 86,
-      "name": "杉野元子",
+      "name": "須山哲治",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 87,
-      "name": "杉本智俊",
+      "name": "高橋勇",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 88,
-      "name": "杉山晴紀",
+      "name": "髙橋智",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 89,
-      "name": "須山哲治",
+      "name": "高橋宣也",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 90,
-      "name": "高橋勇",
+      "name": "竹村英樹",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 91,
-      "name": "髙橋智",
+      "name": "巽孝之",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 92,
-      "name": "高橋宣也",
+      "name": "田中愼",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 93,
-      "name": "竹村英樹",
+      "name": "田中泉吏",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 94,
-      "name": "巽孝之",
+      "name": "谷口祥一",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 95,
-      "name": "田中愼",
+      "name": "近森高明",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 96,
-      "name": "田中泉吏",
+      "name": "築山和也",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 97,
-      "name": "谷口祥一",
+      "name": "柘植尚則",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 98,
-      "name": "近森高明",
+      "name": "寺澤悠理",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 99,
-      "name": "築山和也",
+      "name": "遠山公一",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 100,
-      "name": "柘植尚則",
+      "name": "徳永聡子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 101,
-      "name": "寺澤悠理",
+      "name": "内藤正人",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 102,
-      "name": "遠山公一",
+      "name": "中尾知彦",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 103,
-      "name": "徳永聡子",
+      "name": "中島圭一",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 104,
-      "name": "内藤正人",
+      "name": "中谷彩一郎",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 105,
-      "name": "中尾知彦",
+      "name": "中村優治",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 106,
-      "name": "中島圭一",
+      "name": "ナコルチェフスキー　アンドリィ",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 107,
-      "name": "中谷彩一郎",
+      "name": "奈良雅俊",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 108,
-      "name": "中村優治",
+      "name": "西川尚生",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 109,
-      "name": "ナコルチェフスキーアンドリィ",
+      "name": "西野絢子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 110,
-      "name": "奈良雅俊",
+      "name": "根本彰",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 111,
-      "name": "西川尚生",
+      "name": "野々瀬浩司",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 112,
-      "name": "西野絢子",
+      "name": "長谷川敬",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 113,
-      "name": "根本彰",
+      "name": "長谷部史彦",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 114,
-      "name": "野々瀬浩司",
+      "name": "浜日出夫",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 115,
-      "name": "長谷川敬",
+      "name": "林温",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 116,
-      "name": "長谷部史彦",
+      "name": "平石界",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 117,
-      "name": "浜日出夫",
+      "name": "平田栄一朗",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 118,
-      "name": "林温",
+      "name": "福田弥",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 119,
-      "name": "平石界",
+      "name": "藤木健二",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 120,
-      "name": "平田栄一朗",
+      "name": "藤澤啓子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id":121 ,
-      "name": "福田弥",
+      "name": "藤谷道夫",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 122,
-      "name": "藤木健二",
+      "name": "藤本誠",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 123,
-      "name": "藤澤啓子",
+      "name": "古川亮平",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 124,
-      "name": "藤谷道夫",
+      "name": "ブランクール　ヴァンサン",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 125,
-      "name": "藤本誠",
+      "name": "辺見葉子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 126,
-      "name": "古川亮平",
+      "name": "ベッカー　アンドレアス",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 127,
-      "name": "ブランクールヴァンサン",
+      "name": "堀田隆一",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 128,
-      "name": "辺見葉子",
+      "name": "前田廉孝",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 129,
-      "name": "ベッカーアンドレアス",
+      "name": "真壁宏幹",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 130,
-      "name": "堀田隆一",
+      "name": "松浦良充",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 131,
-      "name": "前田廉孝",
+      "name": "松倉梨恵",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 132,
-      "name": "真壁宏幹",
+      "name": "松田隆美",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 133,
-      "name": "松浦良充",
+      "name": "松本直樹",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 134,
-      "name": "松倉梨恵",
+      "name": "三尾裕子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 135,
-      "name": "松田隆美",
+      "name": "皆川泰代",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 136,
-      "name": "松本直樹",
+      "name": "岑村傑",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 137,
-      "name": "三尾裕子",
+      "name": "宮林寛",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 138,
-      "name": "皆川泰代",
+      "name": "村上暁子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 139,
-      "name": "岑村傑",
+      "name": "望月典子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 140,
-      "name": "宮林寛",
+      "name": "森川剛光",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 141,
-      "name": "村上暁子",
+      "name": "屋名池誠",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 142,
-      "name": "望月典子",
+      "name": "山内志朗",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 143,
-      "name": "森川剛光",
+      "name": "山口徹",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 144,
-      "name": "屋名池誠",
+      "name": "山梨あや",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 145,
-      "name": "山内志朗",
+      "name": "山道佳子",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 146,
-      "name": "山口徹",
+      "name": "山本淳一",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 147,
-      "name": "山梨あや",
+      "name": "山本正身",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 148,
-      "name": "山道佳子",
+      "name": "吉武憲司",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 149,
-      "name": "山本淳一",
+      "name": "吉永壮介",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 150,
-      "name": "山本正身",
+      "name": "ヨッホ　マルクス",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 151,
-      "name": "吉武憲司",
+      "name": "渡辺丈彦",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 152,
-      "name": "吉永壮介",
+      "name": "渡邊福太郎",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"文学部"
     },
     {
       "id": 153,
-      "name": "ヨッホマルクス",
+      "name": "赤林英夫",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"経済学部"
     },
     {
       "id": 154,
-      "name": "渡辺丈彦",
+      "name": "赤林由雄",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"経済学部"
     },
     {
       "id": 155,
-      "name": "渡邊福太郎",
+      "name": "秋山裕",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 156,
+      "name": "アビドハドジャエヴ　ウミッド",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 157,
+      "name": "新井拓児",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 158,
+      "name": "飯田恭",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 159,
+      "name": "池田幸弘",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 160,
+      "name": "石橋孝次",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 161,
+      "name": "井出英策",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 162,
+      "name": "伊藤幹夫",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 163,
+      "name": "井深陽子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 164,
+      "name": "植田浩史",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 165,
+      "name": "王楽然",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 166,
+      "name": "大垣昌夫",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 167,
+      "name": "大久保敏弘",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 168,
+      "name": "太田淳",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 169,
+      "name": "太田聰一",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 170,
+      "name": "大西広",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 171,
+      "name": "大沼あゆみ",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 172,
+      "name": "大平哲",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 173,
+      "name": "岡本実哲",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 174,
+      "name": "尾崎裕之",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 175,
+      "name": "青木健一郎",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 176,
+      "name": "有川智己",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 177,
+      "name": "アートル　ジョン",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 178,
+      "name": "井奥洪二",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 179,
+      "name": "池田薫",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 180,
+      "name": "石井明",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 181,
+      "name": "石川昌治",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 182,
+      "name": "エインジ　マイケル",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 183,
+      "name": "長田進",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 184,
+      "name": "小原正",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 185,
+      "name": "嘉治佐保子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 186,
+      "name": "河井啓希",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 187,
+      "name": "河田陽向",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 188,
+      "name": "河端瑞貴",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 189,
+      "name": "川俣雅弘",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 190,
+      "name": "神田さやこ",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 191,
+      "name": "木村福成",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 192,
+      "name": "クリネ　シモン",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 193,
+      "name": "栗野盛光",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 194,
+      "name": "小林慶一郎",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 195,
+      "name": "駒形哲哉",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 196,
+      "name": "駒村康平",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 197,
+      "name": "柏崎千佳子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 198,
+      "name": "桂田昌紀",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 199,
+      "name": "加藤伸吾",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 200,
+      "name": "鎌田由美子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 201,
+      "name": "河備浩司",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 202,
+      "name": "ガボリオ　マリ",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 203,
+      "name": "木村太郎",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 204,
+      "name": "工藤多香子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 205,
+      "name": "呉茂松",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 206,
+      "name": "坂井豊貴",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 207,
+      "name": "坂本達哉",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 208,
+      "name": "櫻川昌哉",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 209,
+      "name": "佐藤祐己",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 210,
+      "name": "塩澤修平",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 211,
+      "name": "白井義昌",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 212,
+      "name": "壽里竜",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 213,
+      "name": "須田伸一",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 214,
+      "name": "境一三",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 215,
+      "name": "迫桂",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 216,
+      "name": "佐々木由美",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 217,
+      "name": "七字眞明",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 218,
+      "name": "志村明彦",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 219,
+      "name": "杉岡洋子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 220,
+      "name": "鈴木晃仁",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 221,
+      "name": "鈴木亮子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 222,
+      "name": "高草木光一",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 223,
+      "name": "高梨耕作",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 224,
+      "name": "竹森俊平",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 225,
+      "name": "武山政直",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 226,
+      "name": "田中辰雄",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 227,
+      "name": "玉田康成",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 228,
+      "name": "崔在東",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 229,
+      "name": "辻村和佑",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 230,
+      "name": "津曲正俊",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 231,
+      "name": "津谷典子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 232,
+      "name": "寺井公子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 233,
+      "name": "土居丈朗",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 234,
+      "name": "千田大介",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 235,
+      "name": "津田眞弓",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 236,
+      "name": "デーゲン　ラルフ",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 237,
+      "name": "戸瀬信之",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 238,
+      "name": "直井道生",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 239,
+      "name": "長倉大輔",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 240,
+      "name": "中嶋亮",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 241,
+      "name": "中妻照雄",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 242,
+      "name": "中西聡",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 243,
+      "name": "中村慎助",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 244,
+      "name": "難波ちづる",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 245,
+      "name": "中川真知子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 246,
+      "name": "中野泰志",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 247,
+      "name": "永井容子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 248,
+      "name": "長沖暁子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 249,
+      "name": "長堀祐造",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 250,
+      "name": "新島進",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 251,
+      "name": "根岸宗一郎",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 252,
+      "name": "ノッター　デビッド",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 253,
+      "name": "長谷川淳一",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 254,
+      "name": "廣瀬康生",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 255,
+      "name": "藤田康範",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 256,
+      "name": "藤原一平",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 257,
+      "name": "藤原グレーヴァ香子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 258,
+      "name": "穂刈亨",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 259,
+      "name": "",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 260,
+      "name": "星野崇宏",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 261,
+      "name": "細田衛士",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 262,
+      "name": "前多康男",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 263,
+      "name": "マッケンジー　コリン",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 264,
+      "name": "松沢裕作",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 265,
+      "name": "三島恒平",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 266,
+      "name": "宮内環",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 267,
+      "name": "羽田功",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 268,
+      "name": "服部哲弥",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 269,
+      "name": "林田愛",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 270,
+      "name": "バティー　ロジャー",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 271,
+      "name": "福田桃子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 272,
+      "name": "福山欣司",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 273,
+      "name": "不破有理",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 274,
+      "name": "星浩司",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 275,
+      "name": "前島和也",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 276,
+      "name": "町田慶子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 277,
+      "name": "松岡和美",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 278,
+      "name": "松原彰子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 279,
+      "name": "丸田千花子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 280,
+      "name": "溝部良恵",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 281,
+      "name": "光田達矢",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 282,
+      "name": "宮崎直哉",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 283,
+      "name": "ミヤン　マルティン　アルベルト",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id":284 ,
+      "name": "村越貴代美",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 285,
+      "name": "持田浩治",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 286,
+      "name": "森藤孝之",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 287,
+      "name": "山田篤裕",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 288,
+      "name": "山田浩之",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 289,
+      "name": "山ノ内健太",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 290,
+      "name": "柳生智子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 291,
+      "name": "八嶋由香利",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 292,
+      "name": "山口祐子",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 293,
+      "name": "山本賀代",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 294,
+      "name": "山本武男",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 295,
+      "name": "吉川龍生",
+      "university":"慶應義塾大学",
+      "undergraduate":"経済学部"
+    },
+    {
+      "id": 296,
+      "name": "朝比奈緑",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 297,
+      "name": "足立典子",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 298,
+      "name": "新井和広",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 299,
+      "name": "安藤光代",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 300,
+      "name": "井口知栄",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 301,
+      "name": "上田衛門",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 302,
+      "name": "牛島辰男",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 303,
+      "name": "牛島利明",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 304,
+      "name": "宇津木愛子",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 305,
+      "name": "梅津光弘",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 306,
+      "name": "遠藤正寛",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 307,
+      "name": "大津敬介",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 308,
+      "name": "大野由香子",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 309,
+      "name": "大矢玲子",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 310,
+      "name": "岡本大輔",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 311,
+      "name": "小野晃典",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 312,
+      "name": "風神佐知子",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 313,
+      "name": "加藤一誠",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 314,
+      "name": "ガルシア　カルロス",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 315,
+      "name": "川上英",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 316,
+      "name": "鎌田康一郎",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 317,
+      "name": "上村佳孝",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 318,
+      "name": "川添美央子",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 319,
+      "name": "川村文重",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 320,
+      "name": "神戸和雄",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 321,
+      "name": "菊澤研宗",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 322,
+      "name": "木島伸彦",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 323,
+      "name": "北川千香子",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 324,
+      "name": "吉川肇子",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 325,
+      "name": "木戸一夫",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 326,
+      "name": "クラシゲ　ジェフリーヨシオ",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 327,
+      "name": "久保研介",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 328,
+      "name": "権丈善一",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 329,
+      "name": "コミネッティ　フィリップ",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 330,
+      "name": "小宮英敏",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 331,
+      "name": "齊藤通貴",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 332,
+      "name": "酒井規史",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 333,
+      "name": "榊原研互",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 334,
+      "name": "櫻庭ゆみ子",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 335,
+      "name": "佐々木美帆",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 336,
+      "name": "佐藤望",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 337,
+      "name": "佐藤和",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 338,
+      "name": "里村卓也",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 339,
+      "name": "佐野真一郎",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 340,
+      "name": "サルブラン　シモン",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 341,
+      "name": "シェイ　デビッド",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 342,
+      "name": "嶋田大輔",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 343,
+      "name": "",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 344,
+      "name": "",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 345,
+      "name": "",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 346,
+      "name": "",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 347,
+      "name": "",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 348,
+      "name": "",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 349,
+      "name": "",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
+    },
+    {
+      "id": 350,
+      "name": "",
+      "university":"慶應義塾大学",
+      "undergraduate":"商学部"
     },
     {
       "id": ,
       "name": "",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"商学部"
     },
     {
       "id": ,
       "name": "",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"商学部"
     },
     {
       "id": ,
       "name": "",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"商学部"
     },
     {
       "id": ,
       "name": "",
       "university":"慶應義塾大学",
-      "undergraduate":"文学部",
-    },
-    {
-      "id": ,
-      "name": "",
-      "university":"慶應義塾大学",
-      "undergraduate":"文学部",
-    },
-    {
-      "id": ,
-      "name": "",
-      "university":"慶應義塾大学",
-      "undergraduate":"文学部",
-    },
-    {
-      "id": ,
-      "name": "",
-      "university":"慶應義塾大学",
-      "undergraduate":"文学部",
-    },
-    {
-      "id": ,
-      "name": "",
-      "university":"慶應義塾大学",
-      "undergraduate":"文学部",
+      "undergraduate":"商学部"
     },
   ],
 
